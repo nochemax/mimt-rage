@@ -1,3 +1,10 @@
+# Crador Smp_A
+# Fecha 28.8.2019
+# Licencia Open soft 
+# Nombre programa MiMt-RaGe
+# Tipo Python3
+# Hack pin wps Wifi basado en bully 
+
 import os
 import time
 import sys
