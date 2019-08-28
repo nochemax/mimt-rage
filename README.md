@@ -1,7 +1,7 @@
 # SMP_A MiMt-RaGe
 MIMT
 
-Hack mimt basado en DNSserver2, Sslstrip2 y iptables
+Hack mitm basado en DNSserver2, Sslstrip2 y iptables
 
 No me hago responsable del mal uso del software. Realizado con fines educativos
 
